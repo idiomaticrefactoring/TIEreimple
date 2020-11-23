@@ -14,11 +14,11 @@ Who Should Review This Change?
 
 ## other works
 
-### Who should review my code
+ Who should review my code
 
 它有约145个引用次数
 
-### Modern code review: a case study at google ICSE-SEIP2020 
-### Multi-objective code reviewer recommendations: balancing expertise, availability and collaborations 2020 ASE
-### Code Review Knowledge Perception: Fusing Multi-Features for Salient-Class Location TSE 2020
-### RSTrace+: Reviewer suggestion using software artifact traceability graphs Information and Software Technology 2020
+ Modern code review: a case study at google ICSE-SEIP2020 
+ Multi-objective code reviewer recommendations: balancing expertise, availability and collaborations 2020 ASE
+ Code Review Knowledge Perception: Fusing Multi-Features for Salient-Class Location TSE 2020
+ RSTrace+: Reviewer suggestion using software artifact traceability graphs Information and Software Technology 2020
