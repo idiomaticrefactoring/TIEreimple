@@ -29,5 +29,13 @@ Vladimir Kovalenko; Nava Tintarev; Evgeny Pasynkov; Christian Bird---Does Review
  RSTrace+: Reviewer suggestion using software artifact traceability graphs Information and Software Technology 2020
  
  Patanamon Thongtanunam, Shane McIntosh, Ahmed E. Hassan, --- Revisiting code ownership and its relationship with software quality in the scope of modern code review  ICSE 2016
+ 
+ M. M. Rahman, C. K. Roy, J. Redl, and J. A. Collins ---- Correct: Code reviewer recommendation at github for vendasta technologies ASE 2016
 
  Motahareh Bahrami Zanjani; Huzefa Kagdi; Christian Bird --- Automatically Recommending Peer Reviewers in Modern Code Review.  TSE 2016
+ 
+ Y. Yu, H. Wang, G. Yin, and T. Wang ---- Reviewer recommendation for pull-requests in github: What can we learn from code review and bug assignment? Information and Software Technology 2016
+ 
+ V. Balachandran----Reducing human effort and improving quality in peer code reviews using automatic static analysis and reviewer recommendation. ICSE 2013
+ 
+
