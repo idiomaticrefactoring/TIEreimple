@@ -14,14 +14,19 @@ Who Should Review This Change?
 
 ## other works
 
-[1] Who should review my code
+[1] Who should review my code (Patanamon Thongtanunam Saner2015)
 
 它有约145个引用次数
 
  Modern code review: a case study at google ICSE-SEIP2020 
+Vladimir Kovalenko; Nava Tintarev; Evgeny Pasynkov; Christian Bird---Does Reviewer Recommendation Help Developers TSE 2020 
  
- Multi-objective code reviewer recommendations: balancing expertise, availability and collaborations 2020 ASE
+ Soumaya Rebai, Abderrahmen Amich, Somayeh Molaei, Marouane Kessentini---Multi-objective code reviewer recommendations: balancing expertise, availability and collaborations 2020 ASE
  
- Code Review Knowledge Perception: Fusing Multi-Features for Salient-Class Location TSE 2020
+ Yuan Huang; Nan Jia; Xiangping Chen; Kai Hong; Zibin Zheng --- Code Review Knowledge Perception: Fusing Multi-Features for Salient-Class Location TSE 2020
  
  RSTrace+: Reviewer suggestion using software artifact traceability graphs Information and Software Technology 2020
+ 
+ Patanamon Thongtanunam, Shane McIntosh, Ahmed E. Hassan, --- Revisiting code ownership and its relationship with software quality in the scope of modern code review  ICSE 2016
+
+ Motahareh Bahrami Zanjani; Huzefa Kagdi; Christian Bird --- Automatically Recommending Peer Reviewers in Modern Code Review.  TSE 2016
