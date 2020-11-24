@@ -19,6 +19,7 @@ Who Should Review This Change?
 它有约145个引用次数
 
  Modern code review: a case study at google ICSE-SEIP2020 
+ 
 Vladimir Kovalenko; Nava Tintarev; Evgeny Pasynkov; Christian Bird---Does Reviewer Recommendation Help Developers TSE 2020 
  
  Soumaya Rebai, Abderrahmen Amich, Somayeh Molaei, Marouane Kessentini---Multi-objective code reviewer recommendations: balancing expertise, availability and collaborations 2020 ASE
